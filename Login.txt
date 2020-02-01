@@ -1,3 +1,4 @@
 Email/Username
 Password
+forgot password
 Login
