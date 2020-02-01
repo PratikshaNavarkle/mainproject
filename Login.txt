@@ -1,4 +1,3 @@
-Email/Username
+Username 
 Password
-forgot password
-Login
+Forgot Password

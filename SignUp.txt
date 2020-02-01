@@ -1,3 +1,3 @@
 Username
 password
-sign up
+signup
